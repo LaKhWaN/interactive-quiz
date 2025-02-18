@@ -24,7 +24,7 @@
 ## Deployment 🚀
 
 - Deployed App: [Link to Deployed App](https://dacoidinteractivequiz.netlify.app/)
-- GitHub Repository: [Link to GitHub Repository](#https://github.com/LaKhWaN/interactive-quiz)
+- GitHub Repository: [Link to GitHub Repository](https://github.com/LaKhWaN/interactive-quiz)
 - Deployment on Vercel or Netlify.
 
 ## Tech Stack 🛠️
